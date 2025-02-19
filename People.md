@@ -7,5 +7,5 @@
 - Luca Crosato - joined 2021
 - James Watt - joined 2025
 - Hady Farrag - joined 2022
-- Yanping Wu - joined 2024
+- Yanping Wu - joined 2022
 - Jing Wang - joined 2023
