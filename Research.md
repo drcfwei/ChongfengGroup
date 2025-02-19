@@ -11,3 +11,5 @@
 - Bio medical science
 
 - physics
+
+- maths
