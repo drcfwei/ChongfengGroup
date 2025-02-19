@@ -7,3 +7,5 @@
 - Human behaviour analysis
 - Machine learning
 - Robotics systems
+
+- bio-medical engineering
