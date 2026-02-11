@@ -9,4 +9,3 @@
 - Hady Farrag - joined 2022
 - Yanping Wu - joined 2024
 - Jing Wang - joined 2023
-- Maysee Wei -joined 2026
